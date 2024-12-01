@@ -1,3 +1,5 @@
+package models;
+
 public class Clerk {
     private String firstName;
     private String lastName;
