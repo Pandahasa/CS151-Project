@@ -4,7 +4,7 @@
       "phone_number": "555-6789",
       "city": "San Jose",
       "state": "CA",
-      "tax_percentage": 8.5
+      "tax_percentage": 8.75
     },
     "product_info": [
       {
@@ -24,6 +24,24 @@
         "product_name": "Bread",
         "price": 2.00,
         "description": "Whole wheat bread"
+      },
+      {
+        "product_code": "01145",
+        "name": "Energy Drink",
+        "description": "Boost energy",
+        "price": 2.99
+      },
+      {
+        "product_code": "01151",
+        "name": "Protein Bar",
+        "description": "High protein",
+        "price": 1.49
+      },
+      {
+        "product_code": "01102",
+        "name": "Granola",
+        "description": "Healthy snack",
+        "price": 3.29
       },
       {
         "product_code": "10004",
