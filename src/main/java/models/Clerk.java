@@ -41,5 +41,7 @@ public class Clerk {
 
     public void setShiftEndTime(String shiftEndTime) {
         this.shiftEndTime = shiftEndTime;
+        System.out.println("Shift end time is set to " + shiftEndTime);
     }
+
 }
