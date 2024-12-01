@@ -1,0 +1,41 @@
+{
+    "store_info": {
+      "store_name": "QuickMart",
+      "phone_number": "555-6789",
+      "city": "San Jose",
+      "state": "CA",
+      "tax_percentage": 8.5
+    },
+    "product_info": [
+      {
+        "product_code": "10001",
+        "product_name": "Apple",
+        "price": 0.50,
+        "description": "Fresh red apple"
+      },
+      {
+        "product_code": "10002",
+        "product_name": "Milk",
+        "price": 1.50,
+        "description": "1 gallon of milk"
+      },
+      {
+        "product_code": "10003",
+        "product_name": "Bread",
+        "price": 2.00,
+        "description": "Whole wheat bread"
+      },
+      {
+        "product_code": "10004",
+        "product_name": "Eggs",
+        "price": 3.00,
+        "description": "Dozen large eggs"
+      },
+      {
+        "product_code": "10005",
+        "product_name": "Orange",
+        "price": 0.75,
+        "description": "Fresh orange"
+      }
+    ]
+  }
